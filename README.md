@@ -33,6 +33,7 @@ Crie um arquivo .env e coloque as seguintes informações
 
 ## Iniciar aplicação
 
+Dê o comando npm install para instalar todos os pacotes
 Dê o comando nodemon para iniciar a aplicação
 
 ## Métodos
